@@ -109,6 +109,9 @@ Web-Scraping-Project/
 Data Analyst | Python | SQL | Power BI | EDA
 
 📧 Email: prasannamedam30@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/medam-prasanna-3508b62bb
+
 🌐 Portfolio: https://insight-alchemy-deck.lovable.app
+
 🐙 GitHub: https://github.com/prasannamedam
